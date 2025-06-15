@@ -163,7 +163,7 @@ python stablediffusion/train_eval.py
 5. **样本生成**: 可视化训练进度
 6. **模型保存**: 最佳模型和检查点
 
-## 📈 监控和可视化
+##  监控和可视化
 
 ### TensorBoard日志
 
@@ -210,17 +210,13 @@ python stablediffusion/train_eval.py
 
 ### diffusion
 
-
-
 ![1750004985171](images/README/1750004985171.png)
 
 ![1750005250187](images/README/1750005250187.png)
 
 ### reference
 
-```##
-
 - [Stable Diffusion原论文](https://arxiv.org/abs/2112.10752)
 - [DDPM论文](https://arxiv.org/abs/2006.11239)
 - [Classifier Guidance](https://arxiv.org/abs/2105.05233)
-```
+- [pytorch-diffusion](https://github.com/owenliang/pytorch-diffusion)
